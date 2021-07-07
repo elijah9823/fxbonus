@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 18 Mar 2021 01:04:49 at https://www.eth2xxevent.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.eth2xxevent.com -O1 "C:\My Web Sites\https_www.eth2xxevent.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:05:01	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/cdn-images-1.medium.com/fit/c/304/304/1_8I-HPL0bfoIzGied-dzOvA.png (from https://www.eth2xxevent.com/)
+01:05:01	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/cdn-images-1.medium.com/fit/c/240/240/1_8I-HPL0bfoIzGied-dzOvA.png (from https://www.eth2xxevent.com/)
+01:05:01	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/cdn-images-1.medium.com/fit/c/152/152/1_8I-HPL0bfoIzGied-dzOvA.png (from https://www.eth2xxevent.com/)
+01:05:01	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/cdn-images-1.medium.com/fit/c/120/120/1_8I-HPL0bfoIzGied-dzOvA.png (from https://www.eth2xxevent.com/)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/cdn-images-1.medium.com/max/800/1_UHb2HozobNe2uMS7q2Iz5Q.png (from https://www.eth2xxevent.com/)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/cdn-static-1.medium.com/_/fp/img/payments/credit-card-sprite.aNIJTodZTkf86-MUkQX7Xw.png (from https://www.eth2xxevent.com/static/files/main-branding-base.css)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/ETH/img/link.png (from https://www.eth2xxevent.com/ETH/index.html)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/files/fav.png (from https://www.eth2xxevent.com/ETH/index.html)
+01:05:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.eth2xxevent.com/files/theme.min.css (from https://www.eth2xxevent.com/ETH/index.html)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/chart.googleapis.com/chart5c3f.png?chs=130x130&chld=L|0&cht=qr&chl=ethereum:0x28E88F46022b90ffDfDe8786198059C0E6B79761 (from https://www.eth2xxevent.com/ETH/index.html)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/embed.tawk.to/5f59d334f0e7167d000f035c/default.js (from https://www.eth2xxevent.com/ETH/index.html)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/BTC/img/link.png (from https://www.eth2xxevent.com/BTC/index.html)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/chart.googleapis.com/charta0ee.png?chs=130x130&chld=L|0&cht=qr&chl=bitcoin:151aTC5tZ1zZhQVs8D3SK8sPq4kYT4u9Ce (from https://www.eth2xxevent.com/BTC/index.html)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/TRX/img/link.png (from https://www.eth2xxevent.com/TRX/index.html)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/chart.googleapis.com/chart9028.png?chs=130x130&chld=L|0&cht=qr&chl=TFp7MPY57FYoycJanENiZ1ehP2KxhLjvHx (from https://www.eth2xxevent.com/TRX/index.html)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/LTC/img/link.png (from https://www.eth2xxevent.com/LTC/index.html)
+01:05:14	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/files/LTC.svg (from https://www.eth2xxevent.com/LTC/index.html)
+01:05:15	Error: 	"Not Found" (404) at link https://www.eth2xxevent.com/files/load.gif (from https://www.eth2xxevent.com/XRP/custom.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 83 links scanned, 64 files written (3088629 bytes overall) [1552113 bytes received at 59696 bytes/sec], 2024982 bytes transferred using HTTP compression in 43 files, ratio 20%, 8.3 requests per connection
+(17 errors, 1 warnings, 0 messages)
